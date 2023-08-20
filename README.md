@@ -7,7 +7,8 @@ Nicolás Ojeda</a></h1>
    src="https://31.media.tumblr.com/a3e213403f4b45917cd365c783d9b894/tumblr_mqsefuP9q61r8q1s0o1_250.gif">
 </a>
 
-⁣⁣<br>Actualmente, estoy en el quinto año de Ingeniería Civil Industrial en la Universidad de Chile, donde también persigo un Máster en Ciencia de los Datos. A lo largo de mi trayectoria como estudiante, he adquirido habilidades en gestión y resolución de problemas, permitiéndome diseñar soluciones basadas en conocimientos de operaciones, tecnologías y finanzas. Mi liderazgo ético y toma de decisiones informadas se reflejan en mi enfoque en la comunicación estratégica, el trabajo en equipo, la sostenibilidad y la innovación. 
+<br style="text-align: justify;">
+Actualmente, estoy en el quinto año de Ingeniería Civil Industrial en la Universidad de Chile, donde también me encuentro cursando un Máster en Ciencia de los Datos. A lo largo de mi trayectoria como estudiante, he adquirido habilidades en gestión y resolución de problemas, permitiéndome diseñar soluciones basadas en conocimientos de operaciones, tecnologías y finanzas. Mi liderazgo ético y toma de decisiones informadas se reflejan en mi enfoque en la comunicación estratégica, el trabajo en equipo, la sostenibilidad y la innovación.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolás-ojeda-730a43219/)
